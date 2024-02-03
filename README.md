@@ -25,6 +25,3 @@
 * JUnit
 
 :mag: Baixe o projeto e teste você mesmo na prática.
-
-
-Developed by Build & Run
